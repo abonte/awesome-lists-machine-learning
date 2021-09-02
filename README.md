@@ -67,6 +67,8 @@ ML applied to specific fields.
 
 * [Fairness in AI](https://github.com/datamllab/awesome-fairness-in-ai) - Fairness in AI resources. ![](https://img.shields.io/github/stars/datamllab/awesome-fairness-in-ai.svg?style=social)
 
+* [Fairness papersl](https://github.com/uclanlp/awesome-fairness-papers) - Papers on fairness in NLP. ![](https://img.shields.io/github/stars/uclanlp/awesome-fairness-papers.svg?style=social)
+ 
 * [Explanable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - Research materials on explainable AI/ML. ![](https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI.svg?style=social)
 
 * [XAI](https://github.com/altamiracorp/awesome-xai) - XAI and Interpretable ML papers, methods, critiques, and resources. ![](https://img.shields.io/github/stars/altamiracorp/awesome-xai.svg?style=social)
