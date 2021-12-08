@@ -60,6 +60,8 @@ ML applied to specific fields.
 
 * [Learning with label noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - Paper, surveys and other resources for learning with noisy labels. ![](https://img.shields.io/github/stars/subeeshvasu/Awesome-Learning-with-Label-Noise.svg?style=social)
 
+* [Open Set Recognition](https://github.com/iCGY96/awesome_OpenSetRecognition_list) Papers and ressources linked to open set recognition, out-of-distribution, open set domain adaptation, and open world recognition. ![](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list.svg?style=social)
+
 
 ### Explainability, Interpretability and Fairness
 
