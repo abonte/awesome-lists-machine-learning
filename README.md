@@ -48,8 +48,6 @@ ML applied to specific fields.
 
 ## ML Sub-fields
 
-* [Mobile machine learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - Mobile machine learning resources for iOS, Android, and edge devices. ![](https://img.shields.io/github/stars/fritzlabs/Awesome-Mobile-Machine-Learning.svg?style=social)
-
 * [Quantum machine learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - Quantum machine learning algorithms,study materials,libraries and software ![](https://img.shields.io/github/stars/krishnakumarsekar/awesome-quantum-machine-learning.svg?style=social)
 
 * [Multimodal machine learning](https://github.com/pliang279/awesome-multimodal-ml) - Research topics in multimodal machine learning. ![](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml.svg?style=social)
