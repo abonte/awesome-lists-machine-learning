@@ -16,6 +16,7 @@
   - [Explainability, Interpretability and Fairness](#explainability-interpretability-and-fairness)
 - [Computer Vision](#computer-vision)
 - [Datasets](#datasets)
+- [Summer schools, conferences,...](#events)
 - [Outdated](#outdated)
 
 
@@ -106,6 +107,10 @@ ML applied to specific fields.
 * [Dataset tools](https://github.com/jsbroks/awesome-dataset-tools) - Labeling tools and libraries for images, audio, time series and text. ![](https://img.shields.io/github/stars/jsbroks/awesome-dataset-tools.svg?style=social)
 
 * [Robotics datasets](https://github.com/sunglok/awesome-robotics-datasets) - Datasets for robotics and computer vision. ![](https://img.shields.io/github/stars/sunglok/awesome-robotics-datasets.svg?style=social)
+
+## Events
+
+* [Summer schools in machine learning + related fields](https://github.com/sshkhr/awesome-mlss). ![](https://img.shields.io/github/stars/sshkhr/awesome-mlss.svg?style=social)
 
 ## Outdated
 
