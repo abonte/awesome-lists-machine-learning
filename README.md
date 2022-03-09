@@ -28,6 +28,8 @@ Tools, tutorials, software engineering best practices and other.
 
 * [Software engineering for machine learning ](https://github.com/SE-ML/awesome-seml) - Articles that cover the software engineering best practices for building machine learning applications.  ![](https://img.shields.io/github/stars/SE-ML/awesome-seml.svg?style=social)
 
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops) - References for MLOps (Machine Learning Operations). ![](https://img.shields.io/github/stars/visenger/awesome-mlops.svg?style=social)
+
 * [System for machine learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) - Research in machine learning system. ![](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning.svg?style=social)
 
 * [H2O](https://github.com/h2oai/awesome-h2o) - Research, applications and projects built using the H2O Machine Learning platform. ![](https://img.shields.io/github/stars/h2oai/awesome-h2o.svg?style=social)
