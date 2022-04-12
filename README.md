@@ -57,7 +57,7 @@ ML applied to specific fields.
 
 * [Domain adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) - Papers, applications and resources about domain adaptation. ![](https://img.shields.io/github/stars/zhaoxin94/awesome-domain-adaptation.svg?style=social)
 
-* [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection) - Anomaly detection resources ![](https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection.svg?style=social)
+* [Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection) - Anomaly detection resources ![](https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection.svg?style=social)
 
 * [Learning with label noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - Paper, surveys and other resources for learning with noisy labels. ![](https://img.shields.io/github/stars/subeeshvasu/Awesome-Learning-with-Label-Noise.svg?style=social)
 
