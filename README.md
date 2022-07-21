@@ -1,4 +1,4 @@
-# Awesome List of Awesome Lists on Machine Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome List of Awesome Lists on Machine Learning [![Awesome](https://awesome.re/badge)](https://awesome.re)
 
 > A curated list of awesome lists on Machine Learning.
 
@@ -69,151 +69,151 @@ Tools, tutorials, software engineering best practices and other.
 ML applied to specific fields.
 
 * [Machine learning for cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
-  <img align="right" src="https://img.shields.io/github/stars/jivoi/awesome-ml-for-cybersecurity.svg?style=social" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/stars/jivoi/awesome-ml-for-cybersecurity" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/last-commit/jivoi/awesome-ml-for-cybersecurity" alt="GitHub last commit">\
   Tools and resources related to the use of machine learning for cyber security
 
 * [Quant machine learning trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
-  <img align="right" src="https://img.shields.io/github/stars/grananqvist/Awesome-Quant-Machine-Learning-Trading.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/grananqvist/Awesome-Quant-Machine-Learning-Trading.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/grananqvist/Awesome-Quant-Machine-Learning-Trading" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/grananqvist/Awesome-Quant-Machine-Learning-Trading" alt="GitHub stars">\
   Quant/Algorithm trading resources with an emphasis on Machine Learning
 
 ## ML Sub-fields
 
 * [Quantum machine learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
-  <img align="right" src="https://img.shields.io/github/stars/krishnakumarsekar/awesome-quantum-machine-learning.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/krishnakumarsekar/awesome-quantum-machine-learning.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/krishnakumarsekar/awesome-quantum-machine-learning" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/krishnakumarsekar/awesome-quantum-machine-learning" alt="GitHub stars">\
   Quantum machine learning algorithms,study materials,libraries and software
   
 * [Multimodal machine learning](https://github.com/pliang279/awesome-multimodal-ml)
-  <img align="right" src="https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml.svg?style=social" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/last-commit/pliang279/awesome-multimodal-ml" alt="GitHub last commit">\
   Research topics in multimodal machine learning
 
 * [Domain adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
-  <img align="right" src="https://img.shields.io/github/stars/zhaoxin94/awesome-domain-adaptation.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/zhaoxin94/awesome-domain-adaptation.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/zhaoxin94/awesome-domain-adaptation" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/zhaoxin94/awesome-domain-adaptation" alt="GitHub stars">\
   Papers, applications and resources about domain adaptation
 
 * [Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)
-  <img align="right" src="https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/hoya012/awesome-anomaly-detection.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/hoya012/awesome-anomaly-detection" alt="GitHub stars">\
   Anomaly detection resources
 
 * [Learning with label noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
-  <img align="right" src="https://img.shields.io/github/stars/subeeshvasu/Awesome-Learning-with-Label-Noise.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/subeeshvasu/Awesome-Learning-with-Label-Noise.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/subeeshvasu/Awesome-Learning-with-Label-Noise" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/subeeshvasu/Awesome-Learning-with-Label-Noise" alt="GitHub stars">\
   Paper, surveys and other resources for learning with noisy labels
 
 * [Open Set Recognition](https://github.com/iCGY96/awesome_OpenSetRecognition_list)
-  <img align="right" src="https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/iCGY96/awesome_OpenSetRecognition_list.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/iCGY96/awesome_OpenSetRecognition_list" alt="GitHub stars">\
   Papers and resources linked to open set recognition, out-of-distribution, open set domain adaptation, and open world recognition
 
-* [Online Machine Learning](https://github.com/online-ml/awesome-online-machine-learning
-  <img align="right" src="https://img.shields.io/github/stars/online-ml/awesome-online-machine-learning.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/online-ml/awesome-online-machine-learning.svg?style=social" alt="GitHub stars">\
+* [Online Machine Learning](https://github.com/online-ml/awesome-online-machine-learning)
+  <img align="right" src="https://img.shields.io/github/stars/online-ml/awesome-online-machine-learning" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/online-ml/awesome-online-machine-learning" alt="GitHub stars">\
   Paper and resources about machine learning on data arriving sequentially
 
 ### Explainability, Interpretability and Fairness
 
 * [Machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
-  <img align="right" src="https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/jphall663/awesome-machine-learning-interpretability.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/jphall663/awesome-machine-learning-interpretability" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/jphall663/awesome-machine-learning-interpretability" alt="GitHub stars">\
   Machine learning interpretability resources
 
 * [Fairness in AI](https://github.com/datamllab/awesome-fairness-in-ai)
-  <img align="right" src="https://img.shields.io/github/stars/datamllab/awesome-fairness-in-ai.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/datamllab/awesome-fairness-in-ai.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/datamllab/awesome-fairness-in-ai" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/datamllab/awesome-fairness-in-ai" alt="GitHub stars">\
   Fairness in AI resources
 
 * [Fairness papersl](https://github.com/uclanlp/awesome-fairness-papers)
-  <img align="right" src="https://img.shields.io/github/stars/uclanlp/awesome-fairness-papers.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/uclanlp/awesome-fairness-papers.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/uclanlp/awesome-fairness-papers" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/uclanlp/awesome-fairness-papers" alt="GitHub stars">\
   Papers on fairness in NLP
  
 * [Explanable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-  <img align="right" src="https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/wangyongjie-ntu/Awesome-explainable-AI.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/wangyongjie-ntu/Awesome-explainable-AI" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/wangyongjie-ntu/Awesome-explainable-AI" alt="GitHub stars">\
   Research materials on explainable AI/ML
 
 * [XAI](https://github.com/altamiracorp/awesome-xai)
-  <img align="right" src="https://img.shields.io/github/stars/altamiracorp/awesome-xai.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/altamiracorp/awesome-xai.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/altamiracorp/awesome-xai" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/altamiracorp/awesome-xai" alt="GitHub stars">\
   XAI and Interpretable ML papers, methods, critiques, and resources
 
 * [Explanatory supervision](https://github.com/stefanoteso/awesome-explanatory-supervision)
-  <img align="right" src="https://img.shields.io/github/stars/stefanoteso/awesome-explanatory-supervision.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/stefanoteso/awesome-explanatory-supervision.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/stefanoteso/awesome-explanatory-supervision" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/stefanoteso/awesome-explanatory-supervision" alt="GitHub stars">\
   Relevant resources for machine learning from explanatory supervision
 
 ## Computer Vision
 
 * [Computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
-  <img align="right" src="https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/jbhuang0604/awesome-computer-vision.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/jbhuang0604/awesome-computer-vision" alt="GitHub stars">\
   Computer vision resources
 
 * [Deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-  <img align="right" src="https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/ChristosChristofidis/awesome-deep-learning.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/ChristosChristofidis/awesome-deep-learning" alt="GitHub stars">\
   Deep Learning tutorials, projects and communities
 
 * [3D machine learning](https://github.com/timzhang642/3D-Machine-Learning)
-  <img align="right" src="https://img.shields.io/github/stars/timzhang642/3D-Machine-Learning.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/timzhang642/3D-Machine-Learning.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/timzhang642/3D-Machine-Learning" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/timzhang642/3D-Machine-Learning" alt="GitHub stars">\
   A resource repository for 3D machine learning
 
 * [Action recognition](https://github.com/jinwchoi/awesome-action-recognition)
-  <img align="right" src="https://img.shields.io/github/stars/jinwchoi/awesome-action-recognition.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/jinwchoi/awesome-action-recognition.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/jinwchoi/awesome-action-recognition" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/jinwchoi/awesome-action-recognition" alt="GitHub stars">\
   Action recognition and related area resources
 
 * [Scene understanding](https://github.com/bertjiazheng/awesome-scene-understanding)
-  <img align="right" src="https://img.shields.io/github/stars/bertjiazheng/awesome-scene-understanding.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/bertjiazheng/awesome-scene-understanding.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/bertjiazheng/awesome-scene-understanding" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/bertjiazheng/awesome-scene-understanding" alt="GitHub stars">\
   Papers for scene understanding
 
 - [Deep learning for video analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
-  <img align="right" src="https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis" alt="GitHub stars">\
   Research on video analysis, especially multimodal learning for video analysis
 
 - [Deep learning object detection](https://github.com/hoya012/deep_learning_object_detection)
-  <img align="right" src="https://img.shields.io/github/stars/hoya012/deep_learning_object_detection.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/hoya012/deep_learning_object_detection.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/hoya012/deep_learning_object_detection" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/hoya012/deep_learning_object_detection" alt="GitHub stars">\
   Papers about object detection using deep learning
 
 * [Image classification](https://github.com/weiaicunzai/awesome-image-classification)
-  <img align="right" src="https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/weiaicunzai/awesome-image-classification.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/weiaicunzai/awesome-image-classification" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/weiaicunzai/awesome-image-classification" alt="GitHub stars">\
   Deep learning image classification papers and codes since 2014
 
 * [Face recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
-  <img align="right" src="https://img.shields.io/github/stars/ChanChiChoi/awesome-Face_Recognition.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/ChanChiChoi/awesome-Face_Recognition.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/ChanChiChoi/awesome-Face_Recognition" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/ChanChiChoi/awesome-Face_Recognition" alt="GitHub stars">\
   Papers about face detection, face alignment, face recognition and other
 
 * [Human pose estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
-  <img align="right" src="https://img.shields.io/github/stars/wangzheallen/awesome-human-pose-estimation.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/wangzheallen/awesome-human-pose-estimation.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/wangzheallen/awesome-human-pose-estimation" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/wangzheallen/awesome-human-pose-estimation" alt="GitHub stars">\
   Mainly focus on human pose estimation, and will include mesh representation, flow calculation, (inverse) kinematics, affordance, robotics, or sequence learning
 
 * [Document understanding](https://github.com/tstanislawek/awesome-document-understanding)
-  <img align="right" src="https://img.shields.io/github/stars/tstanislawek/awesome-document-understanding.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/tstanislawek/awesome-document-understanding.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/tstanislawek/awesome-document-understanding" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/tstanislawek/awesome-document-understanding" alt="GitHub stars">\
   Resources for document understanding topic related to intelligent document processing
 
 ## Datasets
 
 * [Public datasets](https://github.com/awesomedata/awesome-public-datasets)
-  <img align="right" src="https://img.shields.io/github/stars/awesomedata/awesome-public-datasets.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/awesomedata/awesome-public-datasets.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/awesomedata/awesome-public-datasets" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/awesomedata/awesome-public-datasets" alt="GitHub stars">\
   A topic-centric public data sources in high quality
 
 * [Dataset tools](https://github.com/jsbroks/awesome-dataset-tools)
-  <img align="right" src="https://img.shields.io/github/stars/jsbroks/awesome-dataset-tools.svg?style=social" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/jsbroks/awesome-dataset-tools.svg?style=social" alt="GitHub stars">\
+  <img align="right" src="https://img.shields.io/github/stars/jsbroks/awesome-dataset-tools" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/jsbroks/awesome-dataset-tools" alt="GitHub stars">\
   Labeling tools and libraries for images, audio, time series and text
 
 * [Robotics datasets](https://github.com/sunglok/awesome-robotics-datasets)
