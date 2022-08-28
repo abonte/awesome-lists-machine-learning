@@ -1,4 +1,5 @@
-# Awesome List of Awesome Lists on Machine Learning [![Awesome](https://awesome.re/badge)](https://awesome.re)
+# Awesome List of Awesome Lists on Machine Learning
+<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
 
 > A curated list of awesome lists on Machine Learning.
 
