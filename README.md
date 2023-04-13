@@ -57,13 +57,18 @@ Tools, tutorials, software engineering best practices and other.
 
 * [Machine learning tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
   <img align="right" src="https://img.shields.io/github/stars/ujjwalkarn/Machine-Learning-Tutorials" alt="GitHub stars">
-    <img align="right" src="https://img.shields.io/github/last-commit/ujjwalkarn/Machine-Learning-Tutorials" alt="GitHub last commit">\
+  <img align="right" src="https://img.shields.io/github/last-commit/ujjwalkarn/Machine-Learning-Tutorials" alt="GitHub last commit">\
   Machine learning and deep learning tutorials, articles and other resources
 
 * [CoreML models](https://github.com/likedan/Awesome-CoreML-Models)
   <img align="right" src="https://img.shields.io/github/stars/likedan/Awesome-CoreML-Models" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/last-commit/likedan/Awesome-CoreML-Models" alt="GitHub last commit">\
   Models for Core ML (for iOS 11+)
+  
+* [Machine learning software](https://github.com/josephmisiti/awesome-machine-learning)
+  <img align="right" src="https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/josephmisiti/awesome-machine-learning" alt="GitHub last commit">\
+  Learning frameworks, libraries and software. 
 
 ## Application fields
 
@@ -104,7 +109,7 @@ ML applied to specific fields.
 * [Learning with label noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
   <img align="right" src="https://img.shields.io/github/stars/subeeshvasu/Awesome-Learning-with-Label-Noise" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/last-commit/subeeshvasu/Awesome-Learning-with-Label-Noise" alt="GitHub stars">\
-  Paper, surveys and other resources for learning with noisy labels
+  Papers, surveys and other resources for learning with noisy labels
 
 * [Open Set Recognition](https://github.com/iCGY96/awesome_OpenSetRecognition_list)
   <img align="right" src="https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list" alt="GitHub stars">
@@ -114,7 +119,12 @@ ML applied to specific fields.
 * [Online Machine Learning](https://github.com/online-ml/awesome-online-machine-learning)
   <img align="right" src="https://img.shields.io/github/stars/online-ml/awesome-online-machine-learning" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/last-commit/online-ml/awesome-online-machine-learning" alt="GitHub stars">\
-  Paper and resources about machine learning on data arriving sequentially
+  Papers and resources about machine learning on data arriving sequentially
+  
+* [AutoML](https://github.com/hibayesian/awesome-automl-papers)
+  <img align="right" src="https://img.shields.io/github/stars/hibayesian/awesome-automl-papers" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/hibayesian/awesome-automl-papers" alt="GitHub stars">\
+  Papers and resources about automated machine learning
 
 ### Explainability, Interpretability and Fairness
 
