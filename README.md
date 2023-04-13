@@ -59,11 +59,6 @@ Tools, tutorials, software engineering best practices and other.
   <img align="right" src="https://img.shields.io/github/stars/ujjwalkarn/Machine-Learning-Tutorials" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/last-commit/ujjwalkarn/Machine-Learning-Tutorials" alt="GitHub last commit">\
   Machine learning and deep learning tutorials, articles and other resources
-
-* [CoreML models](https://github.com/likedan/Awesome-CoreML-Models)
-  <img align="right" src="https://img.shields.io/github/stars/likedan/Awesome-CoreML-Models" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/likedan/Awesome-CoreML-Models" alt="GitHub last commit">\
-  Models for Core ML (for iOS 11+)
   
 * [Machine learning software](https://github.com/josephmisiti/awesome-machine-learning)
   <img align="right" src="https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning" alt="GitHub stars">
@@ -79,17 +74,7 @@ ML applied to specific fields.
   <img align="right" src="https://img.shields.io/github/last-commit/jivoi/awesome-ml-for-cybersecurity" alt="GitHub last commit">\
   Tools and resources related to the use of machine learning for cyber security
 
-* [Quant machine learning trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
-  <img align="right" src="https://img.shields.io/github/stars/grananqvist/Awesome-Quant-Machine-Learning-Trading" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/grananqvist/Awesome-Quant-Machine-Learning-Trading" alt="GitHub stars">\
-  Quant/Algorithm trading resources with an emphasis on Machine Learning
-
 ## ML Sub-fields
-
-* [Quantum machine learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
-  <img align="right" src="https://img.shields.io/github/stars/krishnakumarsekar/awesome-quantum-machine-learning" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/krishnakumarsekar/awesome-quantum-machine-learning" alt="GitHub stars">\
-  Quantum machine learning algorithms,study materials,libraries and software
   
 * [Multimodal machine learning](https://github.com/pliang279/awesome-multimodal-ml)
   <img align="right" src="https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml" alt="GitHub stars">
@@ -133,11 +118,6 @@ ML applied to specific fields.
   <img align="right" src="https://img.shields.io/github/last-commit/jphall663/awesome-machine-learning-interpretability" alt="GitHub stars">\
   Machine learning interpretability resources
 
-* [Fairness in AI](https://github.com/datamllab/awesome-fairness-in-ai)
-  <img align="right" src="https://img.shields.io/github/stars/datamllab/awesome-fairness-in-ai" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/datamllab/awesome-fairness-in-ai" alt="GitHub stars">\
-  Fairness in AI resources
-
 * [Fairness papersl](https://github.com/uclanlp/awesome-fairness-papers)
   <img align="right" src="https://img.shields.io/github/stars/uclanlp/awesome-fairness-papers" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/last-commit/uclanlp/awesome-fairness-papers" alt="GitHub stars">\
@@ -175,11 +155,6 @@ ML applied to specific fields.
   <img align="right" src="https://img.shields.io/github/last-commit/timzhang642/3D-Machine-Learning" alt="GitHub stars">\
   A resource repository for 3D machine learning
 
-* [Action recognition](https://github.com/jinwchoi/awesome-action-recognition)
-  <img align="right" src="https://img.shields.io/github/stars/jinwchoi/awesome-action-recognition" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/jinwchoi/awesome-action-recognition" alt="GitHub stars">\
-  Action recognition and related area resources
-
 * [Scene understanding](https://github.com/bertjiazheng/awesome-scene-understanding)
   <img align="right" src="https://img.shields.io/github/stars/bertjiazheng/awesome-scene-understanding" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/last-commit/bertjiazheng/awesome-scene-understanding" alt="GitHub stars">\
@@ -204,11 +179,6 @@ ML applied to specific fields.
   <img align="right" src="https://img.shields.io/github/stars/ChanChiChoi/awesome-Face_Recognition" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/last-commit/ChanChiChoi/awesome-Face_Recognition" alt="GitHub stars">\
   Papers about face detection, face alignment, face recognition and other
-
-* [Human pose estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
-  <img align="right" src="https://img.shields.io/github/stars/wangzheallen/awesome-human-pose-estimation" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/last-commit/wangzheallen/awesome-human-pose-estimation" alt="GitHub stars">\
-  Mainly focus on human pose estimation, and will include mesh representation, flow calculation, (inverse) kinematics, affordance, robotics, or sequence learning
 
 * [Document understanding](https://github.com/tstanislawek/awesome-document-understanding)
   <img align="right" src="https://img.shields.io/github/stars/tstanislawek/awesome-document-understanding" alt="GitHub stars">
@@ -257,7 +227,37 @@ Lists that are either explicitly deprecated by their authors or no longer update
   <img align="right" src="https://img.shields.io/github/last-commit/terryum/awesome-deep-learning-papers" alt="GitHub stars">\
   The most cited deep learning papers (2012-2016)
   [Deprecated]
+ 
+* [CoreML models](https://github.com/likedan/Awesome-CoreML-Models)
+  <img align="right" src="https://img.shields.io/github/stars/likedan/Awesome-CoreML-Models" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/likedan/Awesome-CoreML-Models" alt="GitHub last commit">\
+  Models for Core ML (for iOS 11+)
 
+* [Quant machine learning trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
+  <img align="right" src="https://img.shields.io/github/stars/grananqvist/Awesome-Quant-Machine-Learning-Trading" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/grananqvist/Awesome-Quant-Machine-Learning-Trading" alt="GitHub stars">\
+  Quant/Algorithm trading resources with an emphasis on Machine Learning
+ 
+* [Quantum machine learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
+  <img align="right" src="https://img.shields.io/github/stars/krishnakumarsekar/awesome-quantum-machine-learning" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/krishnakumarsekar/awesome-quantum-machine-learning" alt="GitHub stars">\
+  Quantum machine learning algorithms,study materials,libraries and software
+  
+* [Human pose estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
+  <img align="right" src="https://img.shields.io/github/stars/wangzheallen/awesome-human-pose-estimation" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/wangzheallen/awesome-human-pose-estimation" alt="GitHub stars">\
+  Mainly focus on human pose estimation, and will include mesh representation, flow calculation, (inverse) kinematics, affordance, robotics, or sequence learning
+  
+* [Action recognition](https://github.com/jinwchoi/awesome-action-recognition)
+  <img align="right" src="https://img.shields.io/github/stars/jinwchoi/awesome-action-recognition" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/jinwchoi/awesome-action-recognition" alt="GitHub stars">\
+  Action recognition and related area resources
+  
+* [Fairness in AI](https://github.com/datamllab/awesome-fairness-in-ai)
+  <img align="right" src="https://img.shields.io/github/stars/datamllab/awesome-fairness-in-ai" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/datamllab/awesome-fairness-in-ai" alt="GitHub stars">\
+  Fairness in AI resources
+  
 ## Contribute
 
 Contributions welcome! Feel free to open a pull-request!
