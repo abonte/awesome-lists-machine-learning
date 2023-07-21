@@ -111,6 +111,11 @@ ML applied to specific fields.
   <img align="right" src="https://img.shields.io/github/last-commit/hibayesian/awesome-automl-papers" alt="GitHub stars">\
   Papers and resources about automated machine learning
 
+* [Data-centric AI](https://github.com/daochenzha/data-centric-AI)
+  <img align="right" src="https://img.shields.io/github/stars/daochenzha/data-centric-AI" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/daochenzha/data-centric-AI" alt="GitHub stars">\
+  List of resources on data-centric AI, which focuses on enhancing data quality and quantity to improve AI systems
+
 ### Explainability, Interpretability and Fairness
 
 * [Machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
