@@ -1,5 +1,7 @@
 # Awesome List of Awesome Lists on Machine Learning
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
+<img src="https://img.shields.io/github/license/abonte/awesome-lists-machine-learning.svg?color=blue"/>
 
 > A curated list of awesome lists on Machine Learning.
 
