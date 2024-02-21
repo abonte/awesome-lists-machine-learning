@@ -116,6 +116,11 @@ ML applied to specific fields.
   <img align="right" src="https://img.shields.io/github/last-commit/daochenzha/data-centric-AI" alt="GitHub stars">\
   List of resources on data-centric AI, which focuses on enhancing data quality and quantity to improve AI systems
 
+* [Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+  <img align="right" src="https://img.shields.io/github/stars/benedekrozemberczki/awesome-decision-tree-papers" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/benedekrozemberczki/awesome-decision-tree-papers" alt="GitHub stars">\
+  A collection of research papers on decision, classification and regression trees with implementations. 
+
 ### Explainability, Interpretability and Fairness
 
 * [Machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
