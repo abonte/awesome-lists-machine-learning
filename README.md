@@ -8,7 +8,8 @@
 <div align="center">
 <img src="https://imgs.xkcd.com/comics/machine_learning.png" width="256"/>
 
-[xkcd.com](https://xkcd.com)
+https://xkcd.com/1838/
+
 </div>
 
 ## Contents
