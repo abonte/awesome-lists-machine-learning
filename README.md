@@ -89,11 +89,16 @@ ML applied to specific fields.
   <img align="right" src="https://img.shields.io/github/last-commit/zhaoxin94/awesome-domain-adaptation" alt="GitHub stars">\
   Papers, applications and resources about domain adaptation
 
-* [Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)
+* [Anomaly detection](https://github.com/hoya012/awesome-anomaly-detection)
   <img align="right" src="https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/last-commit/hoya012/awesome-anomaly-detection" alt="GitHub stars">\
   Anomaly detection resources
 
+* [Out-of-distribution detection](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection)
+  <img align="right" src="https://img.shields.io/github/stars/huytransformer/Awesome-Out-Of-Distribution-Detection" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/huytransformer/Awesome-Out-Of-Distribution-Detection" alt="GitHub stars">\
+  Out-of-distribution detection, robustness, and generalization resources
+  
 * [Learning with label noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
   <img align="right" src="https://img.shields.io/github/stars/subeeshvasu/Awesome-Learning-with-Label-Noise" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/last-commit/subeeshvasu/Awesome-Learning-with-Label-Noise" alt="GitHub stars">\
@@ -223,7 +228,7 @@ ML applied to specific fields.
 
 ## Outdated
 
-Lists that are either explicitly deprecated by their authors or no longer updated for more than two years, but they are stil a good reference.
+Lists that are either explicitly deprecated by their authors or no longer updated for more than two years, but they are still a good reference.
 
 * [Adversarial machine learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
   <img align="right" src="https://img.shields.io/github/stars/yenchenlin/awesome-adversarial-machine-learning" alt="GitHub stars">
