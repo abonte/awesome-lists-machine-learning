@@ -129,6 +129,12 @@ ML applied to specific fields.
   <img align="right" src="https://img.shields.io/github/last-commit/benedekrozemberczki/awesome-decision-tree-papers" alt="GitHub stars">\
   A collection of research papers on decision, classification and regression trees with implementations. 
 
+
+* [Loss Functions](https://github.com/stabgan/awesome-loss-functions)
+  <img align="right" src="https://img.shields.io/github/stars/stabgan/awesome-loss-functions" alt="GitHub stars">
+  <img align="right" src="https://img.shields.io/github/last-commit/stabgan/awesome-loss-functions" alt="GitHub last commit">\
+  350+ loss functions across 25+ subdomains of deep learning and machine learning, with paper links, math formulations, and implementations
+
 ### Explainability, Interpretability and Fairness
 
 * [Machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
